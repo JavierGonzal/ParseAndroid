@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParseExample</string>
+
+    <string name="the_developer_world_is_yours">The Developer world is yours</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="update_name">Update Name</string>
+    <string name="get_name">Get Name</string>
+    <string name="empty_field">Empty field</string>
+    <string name="error_retrofit">There are problems for to get data from internet</string>
+</resources>
